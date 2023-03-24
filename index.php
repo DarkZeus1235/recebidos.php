@@ -10,6 +10,9 @@
     <title>Inscrição</title>
 </head>
 <body>
+  <?php
+    include("menu.php");
+  ?>
 <form action="recebidos.php" method="get">
 <h1 class="inscr">Tela de Inscrição</h1>
     <div class="container">
